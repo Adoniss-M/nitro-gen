@@ -1,2 +1,2 @@
-# nitro-gen
-Discord Nitro Generator
+# Discord Nitro Generator
+Discord Nitro Links Generator
